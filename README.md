@@ -12,16 +12,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Udacity course project</h3>
+  <h3 align="center">MyReads Udacity course project</h3>
 
   <p align="center">
-    landing page web site design.
+    MyReads Udacity course project.
     <br />
-    <a href="https://github.com/abdelhady-dev/landing-page-udacity-project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/abdelhady-dev/react-myreads-udacity-project"> <strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://abdelhady-dev.github.io/landing-page-udacity-project/">View Demo</a>
-    ·
   </p>
 </div>
 
@@ -52,9 +50,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://abdelhady-dev.github.io/landing-page-udacity-project/)
+[![Product Name Screen Shot][product-screenshot]]()
 
-This project is a landing page that responsive with desktop, tablet and mobile screens
+In the MyReads project, i create a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. The project emphasizes using React to build the application and provides an API server and client library that use to persist information as you interact with the application.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -62,12 +60,14 @@ This project is a landing page that responsive with desktop, tablet and mobile s
 
 ### Technologies
 
-This section list frameworks/libraries/languages used build my project.
+This section list frameworks/libraries/languages used to build my project.
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://www.w3schools.com/css/)
 * [Javascript](https://www.w3schools.com/js/)
-
+* [React.js](https://reactjs.org/)
+* [Node.js](https://nodejs.org/en/)
+* [Express.js](https://expressjs.com/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -77,11 +77,31 @@ This section list frameworks/libraries/languages used build my project.
 
 ### Installation
 
+#### Development version
+
 1. Clone the repo
    ```sh
-   git clone https://github.com/abdelhady-dev/landing-page-udacity-project.git
+   git clone https://github.com/abdelhady-dev/react-myreads-udacity-project.git
    ```
-2. open index.html
+2. install npm, node
+3. run commands
+  ```sh
+  npm install
+  npm start 
+  ```
+
+#### Deployed version
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/abdelhady-dev/react-myreads-udacity-project.git
+2. open deployed version directory
+3. install npm, node   ```
+4. run commands
+  ```sh
+  npm install express, cors, body-parser
+  node server.js 
+  ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -98,9 +118,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Abd-Elhady Saeed](https://www.linkedin.com/in/abd-elhady-saeed-404385205/) - hadysaeed78@gmail.com
+Name - [Abd-Elhady Saeed](https://www.linkedin.com/in/abd-elhady-saeed-404385205/) - hadysaeed78@gmail.com
 
-Project Link: [https://github.com/abdelhady-dev/landing-page-udacity-project.git](https://github.com/abdelhady-dev/landing-page-udacity-project.git)
+Project Link: [https://github.com/abdelhady-dev/react-myreads-udacity-project.git](https://github.com/abdelhady-dev/react-myreads-udacity-project.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
